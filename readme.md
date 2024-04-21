@@ -8,10 +8,18 @@
 5.ChatGPT 4.0并不是专业用于ai绘图的大模型，多次绘图会严重影响输出效率。如有相关需要请了解midjourney，此为专业的绘图ai。若人数众多，后续也会开启此ai工具的拼单。（微信留言）  
 6.拒绝商业合作，请勿擅加微信骚扰，谢谢。  
 以下为图示教程：
+
+
 <img width="455" alt="微信图片_20240421221124" src="https://github.com/llll-bit/chatgpt/assets/72018321/6cc4392e-1f80-4f75-92e0-e431c5743f6d">
+
+
 扫码后点击其他金额
 ![微信图片编辑_20240421221408](https://github.com/llll-bit/chatgpt/assets/72018321/40d8d321-3f82-4c49-82b1-a6fe08a06d06)
+
+
 输入对应金额
 ![微信图片编辑_20240421221441](https://github.com/llll-bit/chatgpt/assets/72018321/09ed8284-0b92-46ba-83aa-eec62d8523a4)
+
+
 支付成功后请勿刷新界面，等待几秒跳出账号密码
 <img width="459" alt="微信图片_20240421221133" src="https://github.com/llll-bit/chatgpt/assets/72018321/28c08a76-0aef-410e-86b2-736d316d2ecb">
