@@ -14,12 +14,18 @@
 
 
 扫码后点击其他金额
+
+
 ![微信图片编辑_20240421221408](https://github.com/llll-bit/chatgpt/assets/72018321/40d8d321-3f82-4c49-82b1-a6fe08a06d06)
 
 
 输入对应金额
+
+
 ![微信图片编辑_20240421221441](https://github.com/llll-bit/chatgpt/assets/72018321/09ed8284-0b92-46ba-83aa-eec62d8523a4)
 
 
 支付成功后请勿刷新界面，等待几秒跳出账号密码
+
+
 <img width="459" alt="微信图片_20240421221133" src="https://github.com/llll-bit/chatgpt/assets/72018321/28c08a76-0aef-410e-86b2-736d316d2ecb">
