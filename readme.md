@@ -1,4 +1,4 @@
-#本校chatgpt拼单网站  https://gpt-ping.com  也欢迎他校同学使用
+<img width="455" alt="微信图片_20240421221124" src="https://github.com/llll-bit/chatgpt/assets/72018321/b0a6c1d0-5798-4e8a-b18a-ddd11fa87a91">#本校chatgpt拼单网站  https://gpt-ping.com  也欢迎他校同学使用
 -------------------------------------------------------------
 使用须知：  
 1.该网页全程由算法自动分配账号。因能力有限，有小概率出现账号分配有误的现象。若同学们使用过程中出现这类状况，可添加微信并携付款记录人工分配账号。（微信号在支付界面）  
@@ -7,3 +7,7 @@
 4.每个账号都有概率被选中为体验号，在最后一天时供所有人免费使用。秉持着薅羊毛精神及开源精神，谢谢大家配合！  
 5.ChatGPT 4.0并不是专业用于ai绘图的大模型，多次绘图会严重影响输出效率。如有相关需要请了解midjourney，此为专业的绘图ai。若人数众多，后续也会开启此ai工具的拼单。（微信留言）  
 6.拒绝商业合作，请勿擅加微信骚扰，谢谢。  
+<img width="455" alt="微信图片_20240421221124" src="https://github.com/llll-bit/chatgpt/assets/72018321/364dfe69-a9e8-4c2e-95df-a89bf43818f9">
+![微信图片编辑_20240421221408](https://github.com/llll-bit/chatgpt/assets/72018321/733bdc68-bf0f-43c9-88b4-d13456ef1554)
+![微信图片编辑_20240421221441](https://github.com/llll-bit/chatgpt/assets/72018321/5fd23b6e-8620-496a-8699-8e18a05453f1)
+<img width="459" alt="微信图片_20240421221133" src="https://github.com/llll-bit/chatgpt/assets/72018321/bc854b30-c45f-485f-b987-aa855ff38507">
